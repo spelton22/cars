@@ -1,5 +1,11 @@
 # Application Purpose
 
+Name: Sophie Pelton
+Student ID: 2370862
+Email: spelton@chapman.edu
+Class: CENG298-01
+Assignment: cars.sh
+
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
 ## The user will be presented with a menu of three options:
