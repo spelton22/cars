@@ -10,6 +10,10 @@ Class: CENG298-01
 
 Assignment: cars.sh
 
+# Known Errors
+
+no known errors
+
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
 ## The user will be presented with a menu of three options:
