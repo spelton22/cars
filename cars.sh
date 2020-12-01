@@ -16,7 +16,7 @@ do
 			read MAKE
 			echo "enter the model"
 			read MODEL
-			echo '$Y:$MAKE:$MODEL' >> My_Old_cars.txt ;;
+			echo "$Y:$MAKE:$MODEL" >> My_Old_cars.txt ;;
 
 		"2") sort My_Old_cars.txt ;;
 			
